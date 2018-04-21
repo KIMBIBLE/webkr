@@ -1,0 +1,1 @@
+http://webhacking.kr/challenge/bonus/bonus-5/?file=password.php%00
